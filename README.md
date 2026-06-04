@@ -1,24 +1,3 @@
-## Hi there 👋
-
-<!--
-**Bl4ck5tar/Bl4ck5tar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-````md
-<!--
-  GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME with your GitHub username.
--->
 
 <div align="center">
 
@@ -181,4 +160,3 @@ I am also building full-stack web applications with Go-based backend services, r
 ### Keep coding. Keep learning. Keep building. 🚀
 
 </div>
-```
