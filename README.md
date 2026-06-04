@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bl4ck5tar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4ck5tar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bl4ck5tar&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bl4ck5tar&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -92,9 +92,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bl4ck5tar&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bl4ck5tar&theme=tokyonight&utcOffset=8" />
 
 </div>
 
@@ -136,9 +136,9 @@ I am also building full-stack web applications with Go-based backend services, r
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bl4ck5tar/Bl4ck5tar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bl4ck5tar/Bl4ck5tar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bl4ck5tar/Bl4ck5tar/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -149,7 +149,7 @@ I am also building full-stack web applications with Go-based backend services, r
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Bl4ck5tar-181717?style=for-the-badge&logo=github" />
 
 </div>
 
